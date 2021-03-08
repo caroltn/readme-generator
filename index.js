@@ -111,11 +111,6 @@ const input = () => {
 }
 
 
-
-// ![alt text](assets/images/screenshot.png)
-// badges: ![npm](https://img.shields.io/npm/v/inquirer)
-
-
 const format = (licensetype, res) => {
   let format = ''
   switch (licensetype) {
@@ -185,8 +180,8 @@ ${license}
   })
 }
 
-console.log("\nA README.md file will be generated based off of your entered inputs. \nFeel free to use md syntax if you wish to format your inputs accordingly\n")
+console.log("\nA README.md file will be generated based off of your responses.")
 
 input()
 
-console.log("\n README.md file successfully generated. Please review file.")
+console.log("\n README.md file successfully generated. Please review file before submitting.")
