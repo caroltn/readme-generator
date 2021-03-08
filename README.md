@@ -22,7 +22,7 @@ Copyright (c) 2021 Carol Nguyen
 This project is [MIT](https://choosealicense.com/licenses/mit/) Licensed.
 ## Questions
 
-Feel free to contact me with any questions via the information below:
+Contact me with any questions via the information below:
 
 GitHub: [@caroltn](https://github.com/caroltn)
 
