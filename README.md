@@ -2,9 +2,8 @@
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 ![license](https://img.shields.io/badge/license-MIT-brightgreen)
 ## Description
-- undefined
 - To generate ReadMe using node application
-- 
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,8 +15,6 @@ node
 ## Usage
 
 ![alt screenshot](demo.gif)
-
-## Credits
 
 ## License
 Copyright (c) 2021 Carol Nguyen
