@@ -1,10 +1,10 @@
-# ReadMe generator
+# ReadME Generator
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 ![license](https://img.shields.io/badge/license-MIT-brightgreen)
 ## Description
 - undefined
-- To create a proper readme generator for projects
-- formatting
+- To generate ReadMe using node application
+- 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,17 +12,19 @@
 - [License](#license)
 ## Installation
 *Steps required to install project and how to get the development environment running:*
-latest ver of node.js is recommended
-
+node
 ## Usage
-To run the project. use the command line and input "node index.js". Make sure you're using the most recent version of Node.
+
+![alt screenshot](demo.gif)
+
+## Credits
 
 ## License
 Copyright (c) 2021 Carol Nguyen
 This project is [MIT](https://choosealicense.com/licenses/mit/) Licensed.
 ## Questions
 
-Contact me with any questions via the information below:
+Feel free to contact me with any questions via the information below:
 
 GitHub: [@caroltn](https://github.com/caroltn)
 
